@@ -4,12 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="teipLe8rDT6riMrZnGUB-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;points=[[0.2,0,0,0,0],[0.2,1,0,0,0],[0.4,0,0,0,0],[0.4,1,0,0,0],[0.6,0,0,0,0],[0.6,1,0,0,0],[0.8,0,0,0,0],[0.8,1,0,0,0]];" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="P1UD6UZuFPKrnC7a3uCG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;points=[[0.2,0,0,0,0],[0.2,1,0,0,0],[0.4,0,0,0,0],[0.4,1,0,0,0],[0.6,0,0,0,0],[0.6,1,0,0,0],[0.8,0,0,0,0],[0.8,1,0,0,0]];imageWidth=20;imageHeight=19;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="120" height="120" as="geometry" />
-        </mxCell>
+        <object label="" ABB_SD204_40="ABB hoofdschakelaar mistral-lijn 4-P 40A" id="P1UD6UZuFPKrnC7a3uCG-1">
+          <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;points=[[0.2,0,0,0,0],[0.2,1,0,0,0],[0.4,0,0,0,0],[0.4,1,0,0,0],[0.6,0,0,0,0],[0.6,1,0,0,0],[0.8,0,0,0,0],[0.8,1,0,0,0]];imageWidth=20;imageHeight=19;shadow=1;fillStyle=hatch;gradientColor=none;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+            <mxGeometry x="360" y="80" width="120" height="120" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="" ABB_SD204_40="ABB hoofdschakelaar mistral-lijn 4-P 40A" id="P1UD6UZuFPKrnC7a3uCG-3">
+          <mxCell style="whiteSpace=wrap;html=1;aspect=fixed;points=[[0.2,0,0,0,0],[0.2,1,0,0,0],[0.4,0,0,0,0],[0.4,1,0,0,0],[0.6,0,0,0,0],[0.6,1,0,0,0],[0.8,0,0,0,0],[0.8,1,0,0,0]];imageWidth=20;imageHeight=19;shadow=1;fillStyle=hatch;gradientColor=none;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+            <mxGeometry x="520" y="80" width="120" height="120" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>

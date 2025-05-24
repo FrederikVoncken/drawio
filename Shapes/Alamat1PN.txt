@@ -24,19 +24,15 @@
       <line x="50" y="82"/>
       <line x="50" y="88"/>
 
-      <move x="48" y="50"/>
-      <line x="58" y="66"/>
       <move x="52" y="48"/>
       <line x="62" y="64"/>
       <move x="56" y="46"/>
       <line x="66" y="62"/>
-      <move x="60" y="44"/>
-      <line x="70" y="60"/>
       <stroke/>
     </path>
     <path>
       <strokewidth width="1"/>
-      <ellipse h="2" w="2" x="59" y="43"/>
+      <ellipse h="2" w="2" x="55" y="45"/>
       <stroke/>
     </path>
     <path>
@@ -52,10 +48,3 @@
     <fillstroke/>
   </foreground>
 </shape>
-
-
-
-
-
-
-

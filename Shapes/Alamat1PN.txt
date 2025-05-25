@@ -1,8 +1,4 @@
 <shape aspect="variable" h="100" w="100" name="Alamat" strokewidth="inherit">
-  <connections>
-    <constraint x="0" y="50" perimeter="0" name="IN"/>
-    <constraint x="100" y="50" perimeter="0" name="OUT"/>
-  </connections>
   <background>
     <path>
       <strokewidth width="1"/>
@@ -48,3 +44,6 @@
     <fillstroke/>
   </foreground>
 </shape>
+
+
+

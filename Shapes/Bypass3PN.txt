@@ -1,0 +1,87 @@
+<shape aspect="variable" h="100" w="100" name="Alamat" strokewidth="inherit">
+  <background>
+    <path>
+      <strokewidth width="1"/>
+      <move x="0" y="30"/>
+      <line x="30" y="30"/>
+
+      <move x="20" y="50"/>
+      <line x="30" y="50"/>
+      <move x="28" y="48"/>
+      <line x="32" y="52"/>
+      <move x="28" y="52"/>
+      <line x="32" y="48"/>
+
+      <move x="0" y="70"/>
+      <line x="30" y="70"/>
+      <move x="28" y="68"/>
+      <line x="32" y="72"/>
+      <move x="28" y="72"/>
+      <line x="32" y="68"/>
+
+      <move x="70" y="50"/>
+      <line x="100" y="50"/>
+
+      <move x="50" y="30"/>
+      <line x="40" y="46"/>
+      <move x="54" y="32"/>
+      <line x="44" y="48"/>
+      <move x="58" y="34"/>
+      <line x="48" y="50"/>
+      <move x="62" y="36"/>
+      <line x="52" y="52"/>
+      <stroke/>
+    </path>
+    <path>
+      <strokewidth width="1"/>
+      <ellipse h="2" w="2" x="61" y="35"/>
+      <stroke/>
+    </path>
+    <path>
+      <strokewidth width="1"/>
+      <text str="1" x="10" y="20" valign="middle"/>
+      <text str="0" x="10" y="50" valign="middle"/>
+      <text str="2" x="10" y="80" valign="middle"/>
+      <stroke/>
+    </path>
+    <path>
+      <strokewidth width="3"/>
+      <move x="70" y="50"/>
+      <line x="30" y="30"/>
+      <stroke/>
+    </path>
+  </background>  
+  <foreground>
+    <fillstroke/>
+  </foreground>
+</shape>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
